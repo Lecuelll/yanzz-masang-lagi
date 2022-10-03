@@ -1,6 +1,6 @@
 /**
-   * Create By Yanzz
-   * Base by Yanz
+   * Create By Habb
+   * Base by Habb
 */
 
 const fs = require('fs')
@@ -17,15 +17,15 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'Ir.adam'
+global.ownername = 'Habb'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['62895414822045']
-global.premium = ['62895414822045']
+global.owner = ['6289513975855']
+global.premium = ['6289513975855']
 global.packname = '©'
-global.author = 'ZEXA-LZ'
+global.author = 'HABB-MD'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
