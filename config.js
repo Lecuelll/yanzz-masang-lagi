@@ -1,6 +1,6 @@
 /**
-   * Create By Habb
-   * Base by Habb
+   * Create By Zen
+   * Base by Zennu
 */
 
 const fs = require('fs')
@@ -17,15 +17,15 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'Habb'
+global.ownername = 'Zennu-CL'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6289513975855']
-global.premium = ['6289513975855']
-global.packname = '©'
-global.author = 'HABB-MD'
+global.owner = ['6288212898608']
+global.premium = ['6288212898608']
+global.packname = 'Zennu'
+global.author = 'Zennu-id'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
